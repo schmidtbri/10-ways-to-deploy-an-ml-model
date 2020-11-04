@@ -12,8 +12,9 @@ This blog post builds on the ideas started in
 [blog
 posts]({filename}/articles/using-ml-model-abc/post.md).
 
-In this blog post I'll show how to deploy the same ML model that we
-deployed as a batch job in this [blog
+This blog post also references previous blog posts in which I 
+deployed the same ML model in several different ways. I deployed
+the model as a batch job in this [blog
 post]({filename}/articles/etl-job-ml-model-deployment/post.md),
 as a task queue in this [blog
 post]({filename}/articles/task-queue-ml-model-deployment/post.md),
